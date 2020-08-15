@@ -1,2 +1,2 @@
-# fitness
-GitHub Pages
+# fitnessclubAMP
+Free Web Template
